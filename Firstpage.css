@@ -1,0 +1,147 @@
+
+
+/*
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+
+
+
+
+#copyright{
+    text-align: center;
+    color-adjust: red;
+
+}
+.ImageContainer{
+    background-color: gray;
+    background-image:url('snacks.png');
+    height: 500px;
+    width :100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: groove black;
+    
+
+}
+
+#circle{
+    height:150px;
+    width:150px;
+    background-color: honeydew;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 80px;
+    margin-bottom: 40px;
+        
+}
+#ilogo{
+    text-align:center;
+    font-size :38px;
+    color: hotpink;
+}
+#social{
+    text-align:right;
+ 
+   
+    
+
+}
+.open {
+  left: 0px;
+}
+.slogo{
+    width: 30px;
+    height: 30px;
+    border-style: groove black;
+}
+#text{
+    font-size: 100px;
+    text-align:center;
+    color: rgb(130, 0, 61);
+}
+
+.nav{
+    text-align:left;
+    background-color: black;
+    width: 240px;
+    left:-240px;
+    height: 100%;
+    transition: 0.3s all ease;
+    position: absolute;
+    z-index:0000;
+    
+}
+.hamburger{
+    position: absolute;
+    top:10px;
+    right: -50px;
+}
+.hamburger span {
+    display: block;
+    background: #222;
+    margin: 6px 0;
+    height: 6px;
+    width: 36px;
+    border-radius: 2px;
+    position: relative;
+    transition: 0.3s;
+  }
+  .hamburger :hover{
+      cursor: pointer; 
+  }
+
+  .menu{
+      list-style-type: none;
+
+  }
+  .menu__item {
+    font-size: 1.4rem;
+    color: #eee;
+    border-bottom: 1px solid #333;
+    padding: 1.2rem;
+    text-transform: uppercase;
+    transition: 0.3s all ease;
+  }
+  .menu__item:hover {
+    background: #111;
+    cursor: pointer;
+
+  }
+
+  .change.first-bar{
+      top:11px;
+      transform:rotate(45deg);
+
+  }
+  .change.second-bar{
+   opacity: 0;
+
+}
+.change.third-bar{
+    top:11px;
+      transform:rotate(45deg);
+
+ }
+ .content {
+    padding: 2rem;
+    transition: 0.3s all ease;
+  }
+  
+  .shift {
+    margin-left: 260px;
+  }
+  
+  .content__heading {
+    text-align: center;
+    padding: 2rem;
+  }
+  .content__details {
+    padding: 2rem;
+    letter-spacing: 1px;
+  }
+  .content__image {
+    padding: 1rem;
+    width: 100%;
+    height: auto;
+  }
+  */
