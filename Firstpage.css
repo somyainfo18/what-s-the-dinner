@@ -1,3 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+
+
+
+.imageContainer{
+
+  background-color: rgb(253, 205, 255);
+  background-image: url('snacks.png');
+  height : 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.circle {
+  background-color: #00ff6a;
+  height: 100px;
+  width:100px;
+  border-radius: 50%;
+ margin: auto;
+ margin-top: 40px;
+ margin-bottom: 80px;
+}
+.iLogo{
+  text-align: center;
+  color:blue;
+  margin: auto;
+  font-size: 28px;
+}
+.social {
+  text-align:right;
+  text-decoration: none;
+ 
+
+
+}
+
+.slogo{
+  height: 30px;
+  width:30px;
+  text-decoration: none;
+
+}
+.nav{
+  text-align:left;
+    background-color: black;
+    width: 240px;
+    left:-240px;
+    height: 100%;
+    transition: 0.3s all ease;
+    position: absolute;
+    z-index:0000;
+}
+
+.menu{
+  list-style-type:none;
+
+
+}
+
+.menu__item{
+  font-size: 1.4rem;
+    color: #eee;
+    border-bottom: 1px solid #333;
+    padding: 1.2rem;
+    text-transform: uppercase;
+    transition: 0.3s all ease;
+
+}
+.menu__item:hover{
+  background: cornsilk;
+  cursor: pointer;
+}
+.open{
+left :0px
+}
+.shift{
+  margin-left: 260px;
+
+}
+
+.hamburger {
+  position: absolute;
+  top: 10px;
+  right: -50px;
+}
+.hamburger:hover {
+  cursor: pointer;
+}
+.hamburger span {
+  display: block;
+  background: #222;
+  margin: 6px 0;
+  height: 6px;
+  width: 36px;
+  border-radius: 2px;
+  position: relative;
+  transition: 0.3s;
+}
+.change.first-bar {
+  top: 11px;
+  transform: rotate(45deg);
+}
+.change.second-bar {
+  opacity: 0;
+}
+.change.third-bar {
+  bottom: 13px;
+  transform: rotate(-45deg);
+}
+/* main*/
+
+.content {
+  padding: 2rem;
+  transition: 0.3s all ease;
+}
+.shift{
+  margin-left: 260px;
+
+}
+
+
+
 
 
 /*

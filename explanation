@@ -1,6 +1,44 @@
                         
                         
-                        
+                        <!--main-->
+           <main class ="content">
+            <div class="imageContainer">
+                <!-- circle with What's the dinner-->
+                <div class="circle">
+                    <div class= "iLogo">what's the dinner</div>
+
+                </div>
+                <!---socialicon-->
+                <div class = "social">
+                    
+                    <a href ="https://www.facebook.com" target="_blank">
+                        <img class ="slogo" src ="facebook.png"/>
+                    </a>
+                    <a href="https://www.sanpchat.com" target="_blank">
+                        <img class ="slogo" src ="snapchat.png"/>
+                        </a>
+                        <a href="https://www.youtube.com" target="_blank">
+                        <img class ="slogo" src ="youtube.png"/>
+                        </a>
+
+                </div>
+                <!-- dropdownlist
+                <div>dropdownlist</div>
+            todolist-->
+                <!--<div>todolist</div> -->
+
+
+
+
+
+            </div>
+
+        </main>
+    
+
+
+
+
                         
                         
                         
